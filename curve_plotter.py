@@ -105,7 +105,7 @@ def main():
         time.sleep(0.3)
         type_out("7. Butterfly Curve")
         time.sleep(0.3)
-        type_out("8. Epispiral (custom a, b)")
+        type_out("8. Epispiral")
         time.sleep(0.3)
         type_out("9. Exit")
         time.sleep(0.3)
