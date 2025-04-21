@@ -1,6 +1,6 @@
-# 🌀 Interactive Polar Curve Plotter
+# Interactive Polar Curve Plotter
 
-Python CLI tool visualizes polar coordinate curves using NumPy and Matplotlib.
+Python CLI tool that visualises polar coordinate curves using NumPy and Matplotlib.
 
 ## Features
 - Curve selection menu with animated typewriter effect.
